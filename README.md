@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmet Akkeçi</h1>
-<h3 align="center">image processing</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4thahmet&label=Profile%20views&color=0e75b6&style=flat" alt="4thahmet" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4thahmet" alt="4thahmet" /></a> </p>
+
+- 🌱 I’m currently learning **image processing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4thahmet&show_icons=true&locale=en&layout=compact" alt="4thahmet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4thahmet&show_icons=true&locale=en" alt="4thahmet" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4thahmet&" alt="4thahmet" /></p>
