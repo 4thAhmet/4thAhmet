@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am ahmet akkeçi, a computer engineering student at Konya technical university. I am using C# and python languages. I continue my work on image processing
+I'm Ahmet Akkeçi, a computer engineering student at Konya technical university. I am using C# and python languages. I continue my work on image processing
 
 
 ## 🌐 Socials:
