@@ -2,6 +2,12 @@
 # 💫 About Me:
 I'm Ahmet Akkeçi, a computer engineering student at Konya technical university. I am using C# and python languages. I continue my work on image processing
 
+###
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+
+###
+
 
 ## 🌐 Socials:
 
